@@ -1,0 +1,9 @@
+/**
+ * Hide upload buttons on issue view page with CSS
+ */
+#add-attachments-link,
+#attach-file,
+#attach-screenshot-html5,
+.mod-content.issue-drop-zone {
+    display: none;
+}
