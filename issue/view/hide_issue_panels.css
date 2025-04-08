@@ -1,0 +1,24 @@
+/* Hide Collaborators Panel */
+#collaboratorsmodule {
+    display: none;
+}
+
+/* Hide Development Panel */
+#viewissue-devstatus-panel {
+    display: none;
+}
+
+/* Hide Tempo Panel */
+#tempo-issue-view-panel {
+    display: none;
+}
+
+/* Hide Agile Panel */
+#greenhopper-agile-issue-web-panel-label {
+    display: none;
+}
+
+/* Hide OKR Board Panel */
+#oboard-issue-panel {
+    display: none;
+}
