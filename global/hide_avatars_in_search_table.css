@@ -1,0 +1,4 @@
+.issue-table-wrapper td > span.aui-avatar,
+.issue-table-wrapper td > button.user-hover-trigger {
+    display: none;
+}
